@@ -138,3 +138,5 @@ with col1:
 with col2:
     st.success(f"**Stok Kodu Önerisi:**\n\n"
                f"EM-{int(d1)}R{r}-{flutes}Z-{int(l2)}")
+               f"EM-{int(d1)}R{r}-{flutes}Z-{int(l2)}")
+
